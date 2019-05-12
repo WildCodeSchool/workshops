@@ -1,0 +1,17 @@
+body {
+  background: #282c34;
+}
+
+.App .logo{
+  display:block;
+  margin: auto;
+}
+
+.App label{
+  color: white;
+  text-align: left;
+}
+
+.App p {
+  color: white
+}
