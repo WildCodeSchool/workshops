@@ -1,6 +1,6 @@
 # Pastebin
 
-![](https://media.giphy.com/media/3oKGzvg3gGxSS3O38A/giphy.gif)
+<img src="https://media.giphy.com/media/3oKGzvg3gGxSS3O38A/giphy.gif" height="200" />
 
 ## Goal
 
