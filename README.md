@@ -1,5 +1,10 @@
 # Workshops
 
+## Random User - [Link](https://github.com/WildCodeSchool/workshops/tree/master/randomuser)
+
+* **Stack**: React
+* **Goal**: Use a JSON + Map() + Props
+
 ## Ron Swanson - [Link](https://github.com/WildCodeSchool/workshops/tree/master/ronswanson)
 
 * **Stack**: React
