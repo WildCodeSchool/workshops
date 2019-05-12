@@ -1,6 +1,6 @@
 # Ron Swanson
 
-![ron](https://media.giphy.com/media/Y7SeP7arJWBZ6/giphy.gif)
+![ron](https://media.giphy.com/media/sDjIG2QtbXKta/giphy.gif)
 
 ## Goal
 
