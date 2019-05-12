@@ -1,7 +1,6 @@
 # Workshops
 
-## Pastebin
+## Pastebin - [Link](https://github.com/WildCodeSchool/workshops/tree/master/pastebin)
 
 * **Stack**: React
 * **Goal**: Form validation and Fetch/Axios (POST)
-* [Link](https://github.com/WildCodeSchool/workshops)
