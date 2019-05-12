@@ -1,5 +1,7 @@
 # Pastebin
 
+![](https://media.giphy.com/media/3oKGzvg3gGxSS3O38A/giphy.gif)
+
 ## Goal
 
 Block the submit if the form is empty and display the created link.
