@@ -14,3 +14,9 @@
 
 * **Stack**: React
 * **Goal**: Form validation and Fetch/Axios (POST)
+
+## WildNews - [Link](https://gitlab.com/diogofgr/wild-news-from-api)
+
+* **Stack**: React
+* **Goal**: Fetch/Axios (GET) + Lifecyle
+
